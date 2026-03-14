@@ -35,8 +35,6 @@ cms-medicare-analysis/
 ├── CMS_Medicare_Analysis_REAL.ipynb     # Main analysis notebook (4 sections)
 ├── CMS_Medicare_CaseStudy_REAL.pptx     # Executive slide deck (8 slides)
 ├── CMS_Executive_Summary_REAL.docx      # Written executive summary
-├── CaseStudy_Analytics.pdf              # Case study brief
-├── CMS_Medicare_QA_Guide_REAL.pdf       # Q&A preparation guide
 │
 ├── data/  (not committed — see Data Sources below)
 │   ├── Medicare_IP_Hospitals_by_Provider_and_Service_2017.csv
@@ -154,7 +152,6 @@ The notebook auto-generates 6 publication-quality charts:
 | Analysis notebook | `CMS_Medicare_Analysis_REAL.ipynb` |
 | Slide deck (8 slides) | `CMS_Medicare_CaseStudy_REAL.pptx` |
 | Executive summary | `CMS_Executive_Summary_REAL.docx` |
-| Q&A preparation guide | `CMS_Medicare_QA_Guide_REAL.pdf` |
 
 ---
 
